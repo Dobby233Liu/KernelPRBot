@@ -1,6 +1,6 @@
-Hi @{{ username }}!
+嗨，@{{ username }}!
 
-Thanks for your contribution to the Linux kernel!
+感谢您对 Linux 核心的贡献!
 
 Linux kernel development happens on mailing lists, rather than on GitHub - this GitHub repository is a read-only mirror that isn't used for accepting contributions. So that your change can become part of Linux, please email it to us as a patch.
 
